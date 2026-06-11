@@ -15,8 +15,7 @@ export const siteConfig: SiteConfig = {
 	site_url: "https://firefly.cuteleaf.cn",
 
 	// 站点描述
-	description:
-		"未确认存在的观测记录",
+	description: "未确认存在的观测记录",
 
 	// 站点关键词
 	keywords: [
